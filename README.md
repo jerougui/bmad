@@ -4,6 +4,21 @@ Transformez le vol de votre cerf-volant en musique immersive en temps réel via 
 
 ## Installation
 
+### BMad Method Installation
+
+Ce projet utilise [BMad Method](https://github.com/bmad-code-org/bmad-method) pour la gestion de projet.
+
+**Quick Start:**
+```bash
+# Installation globale
+npx bmad-method install
+
+# Ou initialisation dans ce projet
+npx bmad-method install --directory . --modules bmm --tools claude-code --yes
+```
+
+Documentation officielle: https://docs.bmad-method.org/fr/tutorials/getting-started/
+
 ### Prérequis
 - Android Studio Arctic Fox+ ou Android SDK
 - Gradle 7.x
