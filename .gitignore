@@ -1,0 +1,25 @@
+# Build outputs
+/build/
+/sources/app/build/
+
+# Gradle
+.gradle/
+sources/gradle/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Local config
+local.properties
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.jar
+
+# Keystore
+*.jks
+*.keystore
